@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#crypto-data {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    background: #f0f0f0;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+th {
+    background-color: #f2f2f2;
+}
